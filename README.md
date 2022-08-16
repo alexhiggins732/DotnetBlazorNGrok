@@ -1,5 +1,7 @@
 # DotnetBlazorNGrok
-Dotnet6 MudBlazor sample application that autolaunches NGROK
+Dotnet6 MudBlazor sample application that autolaunches NGROK.
+
+Website adapted from first part of the Twilio guid for using Webhooks with Dotnet: https://www.twilio.com/blog/integrate-ngrok-into-aspdotnet-core-startup-and-automatically-update-your-webhook-urls
 
 **Using ngrok manually**
 
